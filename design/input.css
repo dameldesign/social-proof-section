@@ -215,7 +215,7 @@ img{
     }
     .rated-col{
         text-align: center;
-        flex-direction: wrap;
+        display: inline-table
         
     }
     .content{ 
